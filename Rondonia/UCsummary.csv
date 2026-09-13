@@ -1,4 +1,7 @@
 "name","country","stateProvince","municipality","protectionCategory","UC_ID","source","type","slug"
+"ÁREA DE PROTEÇÃO AMBIENTAL PARQUE DAS MANGUEIRAS","Brazil","Rondônia","PORTO VELHO (RO)","Uso Sustentável",4.601,"cnuc_2025_08.csv","APA","APA_PARQUE_DAS_MANGUEIRAS"
+"ÁREA DE PROTEÇÃO AMBIENTAL RIO MADEIRA","Brazil","Rondônia","PORTO VELHO (RO)","Uso Sustentável",2.065,"cnuc_2025_08.csv","APA","APA_RIO_MADEIRA"
+"ÁREA DE PROTEÇÃO AMBIENTAL RIO PARDO","Brazil","Rondônia","PORTO VELHO (RO)","Uso Sustentável",4.444,"cnuc_2025_08.csv","APA","APA_RIO_PARDO"
 "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO PARQUE DAS ÁGUAS MARECHAL RONDOM","Brazil","Rondônia","PORTO VELHO (RO)","Uso Sustentável",4.685,"cnuc_2025_08.csv","ARIE","ARIE_PARQUE_DAS_AGUAS_MARECHAL_RONDOM"
 "ESTAÇÃO ECOLÓGICA CAPIVARAS","Brazil","Rondônia","PORTO VELHO (RO)","Proteção Integral",4.603,"cnuc_2025_08.csv","EEC","EEC_CAPIVARAS"
 "ESTAÇÃO ECOLÓGICA MADEIRA","Brazil","Rondônia","PORTO VELHO (RO)","Proteção Integral",4.604,"cnuc_2025_08.csv","EEC","EEC_MADEIRA"

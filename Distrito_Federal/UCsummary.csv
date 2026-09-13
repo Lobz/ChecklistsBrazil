@@ -1,4 +1,8 @@
 "name","country","stateProvince","municipality","protectionCategory","UC_ID","source","type","slug"
+"ÁREA DE PROTEÇÃO AMBIENTAL BACIA DO RIO SÃO BARTOLOMEU","Brazil","Distrito Federal","BRASÍLIA (DF)","Uso Sustentável","1.637","cnuc_2025_08.csv","APA","APA_BACIA_DO_RIO_SAO_BARTOLOMEU"
+"ÁREA DE PROTEÇÃO AMBIENTAL BACIAS GAMA E CABEÇA DE VEADO","Brazil","Distrito Federal","BRASÍLIA (DF)","Uso Sustentável","1.639","cnuc_2025_08.csv","APA","APA_BACIAS_GAMA_E_CABECA_DE_VEADO"
+"ÁREA DE PROTEÇÃO AMBIENTAL CAFURINGA","Brazil","Distrito Federal","BRASÍLIA (DF)","Uso Sustentável","1.64","cnuc_2025_08.csv","APA","APA_CAFURINGA"
+"ÁREA DE PROTEÇÃO AMBIENTAL LAGO PARANOÁ","Brazil","Distrito Federal","BRASÍLIA (DF)","Uso Sustentável","1.636","cnuc_2025_08.csv","APA","APA_LAGO_PARANOA"
 "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO BOSQUE","Brazil","Distrito Federal","BRASÍLIA (DF)","Uso Sustentável","1.646","cnuc_2025_08.csv","ARIE","ARIE_BOSQUE"
 "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO CACHOEIRA DO PIPIRIPAU","Brazil","Distrito Federal","BRASÍLIA (DF)","Uso Sustentável","4.657","cnuc_2025_08.csv","ARIE","ARIE_CACHOEIRA_DO_PIPIRIPAU"
 "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO CAPETINGA - TAQUARA","Brazil","Distrito Federal","BRASÍLIA (DF)","Uso Sustentável","31","cnuc_2025_03.csv","ARIE","ARIE_CAPETINGA_-_TAQUARA"

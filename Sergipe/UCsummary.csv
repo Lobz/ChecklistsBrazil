@@ -1,4 +1,6 @@
 "name","country","stateProvince","municipality","protectionCategory","UC_ID","source","type","slug"
+"ÁREA DE PROTEÇÃO AMBIENTAL LITORAL SUL","Brazil","Sergipe","ESTÂNCIA (SE) - INDIAROBA (SE) - ITAPORANGA D'AJUDA (SE) - SANTA LUZIA DO ITANHY (SE)","Uso Sustentável",793,"cnuc_2025_08.csv","APA","APA_LITORAL_SUL"
+"ÁREA DE PROTEÇÃO AMBIENTAL MORRO DO URUBU","Brazil","Sergipe","ARACAJU (SE)","Uso Sustentável",794,"cnuc_2025_08.csv","APA","APA_MORRO_DO_URUBU"
 "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO MANGUEZAIS","Brazil","Sergipe","BARRA DOS COQUEIROS (SE)","Uso Sustentável",4.948,"cnuc_2025_08.csv","ARIE","ARIE_MANGUEZAIS"
 "FLORESTA NACIONAL IBURA","Brazil","Sergipe","LARANJEIRAS (SE) - NOSSA SENHORA DO SOCORRO (SE)","Uso Sustentável",269,"cnuc_2025_08.csv","FLONA","FLONA_IBURA"
 "MONUMENTO NATURAL GROTA DO ANGICO","Brazil","Sergipe","CANINDÉ DE SÃO FRANCISCO (SE) - POÇO REDONDO (SE)","Proteção Integral",1.603,"cnuc_2025_08.csv","MONA","MONA_GROTA_DO_ANGICO"

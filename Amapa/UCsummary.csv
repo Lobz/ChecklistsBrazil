@@ -1,4 +1,7 @@
 "name","country","stateProvince","municipality","protectionCategory","UC_ID","source","type","slug"
+"ÁREA DE PROTEÇÃO AMBIENTAL CARMO","Brazil","Amapá","ITAUBAL (AP)","Uso Sustentável","4.562","cnuc_2025_08.csv","APA","APA_CARMO"
+"ÁREA DE PROTEÇÃO AMBIENTAL FAZENDINHA","Brazil","Amapá","MACAPÁ (AP)","Uso Sustentável","886","cnuc_2025_08.csv","APA","APA_FAZENDINHA"
+"ÁREA DE PROTEÇÃO AMBIENTAL RIO CURIAÚ","Brazil","Amapá","MACAPÁ (AP)","Uso Sustentável","293","cnuc_2025_08.csv","APA","APA_RIO_CURIAU"
 "ESTAÇÃO ECOLÓGICA MARACÁ JIPIOCA","Brazil","Amapá","AMAPÁ (AP)","Proteção Integral","58","cnuc_2025_08.csv","EEC","EEC_MARACA_JIPIOCA"
 "ESTAÇÃO ECOLÓGICA MARACÁ-JIPIOCA","Brazil","Amapá",NA,"Proteção Integral","0000.00.0058","DadosGeoestatisticos_UCs_21jul2025.csv","EEC","EEC_MARACA-JIPIOCA"
 "FLORESTA ESTADUAL AMAPÁ","Brazil","Amapá","AMAPÁ (AP) - CALÇOENE (AP) - FERREIRA GOMES (AP) - MAZAGÃO (AP) - OIAPOQUE (AP) - PORTO GRANDE (AP) - PRACUÚBA (AP) - SERRA DO NAVIO (AP) - TARTARUGALZINHO (AP)","Uso Sustentável","885","cnuc_2025_08.csv","FE","FE_AMAPA"

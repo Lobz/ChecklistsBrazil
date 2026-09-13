@@ -1,4 +1,7 @@
 "name","country","stateProvince","municipality","protectionCategory","UC_ID","source","type","slug"
+"ÁREA DE PROTEÇÃO AMBIENTAL IGARAPÉ SÃO FRANCISCO","Brazil","Acre","BUJARI (AC) - RIO BRANCO (AC)","Uso Sustentável",940,"cnuc_2025_08.csv","APA","APA_IGARAPE_SAO_FRANCISCO"
+"ÁREA DE PROTEÇÃO AMBIENTAL LAGO DO AMAPÁ","Brazil","Acre","RIO BRANCO (AC)","Uso Sustentável",941,"cnuc_2025_08.csv","APA","APA_LAGO_DO_AMAPA"
+"ÁREA DE PROTEÇÃO AMBIENTAL RAIMUNDO IRINEU SERRA","Brazil","Acre","RIO BRANCO (AC)","Uso Sustentável",3.217,"cnuc_2025_08.csv","APA","APA_RAIMUNDO_IRINEU_SERRA"
 "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO JAPIIM PENTECOSTE","Brazil","Acre","MÂNCIO LIMA (AC)","Uso Sustentável",1.983,"cnuc_2025_08.csv","ARIE","ARIE_JAPIIM_PENTECOSTE"
 "ÁREA DE RELEVANTE INTERESSE ECOLÓGICO SERINGAL NOVA ESPERANÇA","Brazil","Acre","EPITACIOLÂNDIA (AC) - XAPURI (AC)","Uso Sustentável",44,"cnuc_2025_08.csv","ARIE","ARIE_SERINGAL_NOVA_ESPERANCA"
 "ESTAÇÃO ECOLÓGICA RIO ACRE","Brazil","Acre","ASSIS BRASIL (AC) - SENA MADUREIRA (AC)","Proteção Integral",68,"cnuc_2025_08.csv","EEC","EEC_RIO_ACRE"

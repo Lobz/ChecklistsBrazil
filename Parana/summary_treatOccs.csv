@@ -1,4 +1,6 @@
 "name","NumRecords","NumOuro","NumPrata","NumBronze","NumTaxons","NumSpecies","NumGenus","NumFamilies","NumLatao","NumNoMatch"
+"APA IGUAÇÚ",2,1,0,0,1,1,1,1,0,0
+"APA IRAÍ",2,0,0,0,1,1,1,1,1,0
 "EEC CAIUÁ",2,0,0,0,2,2,2,2,2,0
 "FE PALMITO",5,0,0,0,4,4,4,4,4,0
 "FLONA IRATI",60,3,0,9,28,28,23,16,16,0
