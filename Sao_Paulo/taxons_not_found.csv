@@ -41,9 +41,9 @@
 "Meripilaceae","Rigidoporus lineatus","(Pers.) Ryvarden",70
 "Polyporaceae","Hexagonia hydnoides","(Sw.) M. Fidalgo",70
 "Pteridaceae","Pteris longifolia","L.",70
+"Fabaceae","Mimosa dolens subsp. acerba","(Benth.) Barneby",69
 "Chaetosphaeriaceae","Thozetella buxifolia","Allegr., Cazau, Cabello & Aramb.",69
 "Pucciniaceae","Puccinia substriata","Ellis & Barthol.",69
-"Fabaceae","Mimosa dolens subsp. acerba","(Benth.) Barneby",68
 "Graphidaceae","Ocellularia","G. Mey.",67
 "Polypodiaceae","Campyloneurum major","(Hicken) Lellinger",66
 "Poaceae","Digitaria milanjiana","(Rendle) Stapf",66
@@ -78,11 +78,11 @@
 "Collemataceae","Leptogium azureum","(Sw.) Mont.",46
 "Poaceae","Eulalia","Kunth",46
 "Poaceae","Paspalum commune","Lillo",46
+"Fabaceae","Mimosa dolens subsp. rigida","(Benth.) Barneby",45
 "Fomitopsidaceae","Daedalea aethalodes","(Mont.) Rajchenb.",45
 "Brassicaceae","Lunaria","L.",45
 "Teloschistaceae","Caloplaca","Th. Fr.",45
 "Parmeliaceae","Parmotrema wainii","(A.L. Sm.) Hale",44
-"Fabaceae","Mimosa dolens subsp. rigida","(Benth.) Barneby",44
 "Parmeliaceae","Parmotrema subochraceum","Hale",44
 "Pilocarpaceae","Byssoloma leucoblepharum","(Nyl.) Vain.",43
 "Meripilaceae","Rigidoporus microporus","(Sw.) Overeem",43
@@ -572,6 +572,7 @@
 "Graphidaceae","Dyplolabia afzelii","(Ach.) A. Massal.",11
 "Callistosporiaceae","Macrocybe praegrandis","(Berk.) Pegler & Lodge",11
 "Polyporaceae","Perenniporia martia","(Berk.) Ryvarden",11
+"Fabaceae","Bauhinia pentandra (Bong.) Vogel ex D.Dietr.","(Bong.) Vogel ex Steud.",11
 "RUBIACEAE","Galianthe galianthe palustris","(Cham. & Schltdl.) Bacigalupo & E.L. Cabral",11
 "Agaricaceae","Leucocoprinus birnbaumii","(Corda) Singer",11
 "Myrtaceae","Melaleuca citrina","(Curtis) Dum.Cours.",11
